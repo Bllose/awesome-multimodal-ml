@@ -967,13 +967,17 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [Multimodal End-to-End Autonomous Driving](https://arxiv.org/abs/1906.03199), arXiv 2020
 
 ### Finance
-[Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning](https://arxiv.org/abs/2401.15935), arXiv 2024
+[Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning](https://arxiv.org/abs/2401.15935), arXiv 2024  
+> 事件序列中的自监督学习：生成式建模与对比学习的对比研究及混合方法
 
-[A Multimodal Event-driven LSTM Model for Stock Prediction Using Online News](https://ailab-ua.github.io/courses/resources/Qing_TKDE_2020.pdf), TKDE 2020
+[A Multimodal Event-driven LSTM Model for Stock Prediction Using Online News](https://ailab-ua.github.io/courses/resources/Qing_TKDE_2020.pdf), TKDE 2020  
+> 基于在线新闻的多模态事件驱动LSTM股票预测模型  
 
-[Multimodal Deep Learning for Finance: Integrating and Forecasting International Stock Markets](https://arxiv.org/abs/1903.06478), 2019
+[Multimodal Deep Learning for Finance: Integrating and Forecasting International Stock Markets](https://arxiv.org/abs/1903.06478), 2019  
+> 金融领域的多模态深度学习：国际股票市场的整合与预测  
 
 [Multimodal deep learning for short-term stock volatility prediction](https://arxiv.org/abs/1812.10479), 2018
+> 多模态深度学习在短期股票波动率预测中的应用  
 
 ### Human AI Interaction
 
